@@ -1,7 +1,7 @@
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <title>Perfection in App Development</title>
     <base href="/">
+    <title>Perfection in App Development</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 
@@ -22,26 +22,26 @@
   <body>
     <app-root></app-root>
 
-    <script src="./assets/lib/jquery-1.12.4/jquery.min.js"></script>
+    <script src="./PromoPage/assets/lib/jquery-1.12.4/jquery.min.js"></script>
     <!--BOOTSTRAP JS-->
-    <script src="./assets/lib/bootstrap/js/bootstrap.min.js"></script>
+    <script src="./PromoPage/assets/lib/bootstrap/js/bootstrap.min.js"></script>
     <!-- REVOLUTION JS FILES -->
-    <script src="./assets/lib/revolution/js/jquery.themepunch.tools.min.js"></script>
-    <script src="./assets/lib/revolution/js/jquery.themepunch.revolution.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/jquery.themepunch.tools.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/jquery.themepunch.revolution.min.js"></script>
     <!-- SLICEY ADD-ON FILES -->
-    <script src="./assets/lib/revolution/revolution-addons/slicey/js/revolution.addon.slicey.min8a54.js?ver=1.0.0"></script>
+    <script src="./PromoPage/assets/lib/revolution/revolution-addons/slicey/js/revolution.addon.slicey.min8a54.js?ver=1.0.0"></script>
     <!-- SLIDER REVOLUTION 5.0 EXTENSIONS  
     (Load Extensions only on Local File Systems !  
     The following part can be removed on Server for On Demand Loading) -->
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.actions.min.js"></script>
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.migration.min.js"></script>
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
-    <script src="./assets/lib/revolution/js/extensions/revolution.extension.video.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.actions.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.carousel.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.kenburn.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.layeranimation.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.migration.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.navigation.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.parallax.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.slideanims.min.js"></script>
+    <script src="./PromoPage/assets/lib/revolution/js/extensions/revolution.extension.video.min.js"></script>
     <script>
       var tpj = jQuery;
       var revapi24;
@@ -131,18 +131,18 @@
       }, 1000);
     </script>
     <!-- PRELOADER -->
-    <script src="./assets/lib/preloader/sPreloader.js"></script>
+    <script src="./PromoPage/assets/lib/preloader/sPreloader.js"></script>
     <!-- OWL CAROUSEL -->
-    <script src="./assets/lib/owl-carousel/owl.carousel.js"></script>
+    <script src="./PromoPage/assets/lib/owl-carousel/owl.carousel.js"></script>
     <!-- ISOTOPE GALLERY -->
-    <script src="./assets/lib/isotope/jquery.isotope.min.js"></script>
-    <script src="./assets/lib/isotope/custom-isotope-mansory.js"></script>
+    <script src="./PromoPage/assets/lib/isotope/jquery.isotope.min.js"></script>
+    <script src="./PromoPage/assets/lib/isotope/custom-isotope-mansory.js"></script>
     <!-- MAGNIFIC POPUP -->
-    <script src="./assets/lib/magnific-popup/jquery.magnific-popup.js"></script>
+    <script src="./PromoPage/assets/lib/magnific-popup/jquery.magnific-popup.js"></script>
     <!-- CONTACT FORM JS -->
-    <script src="./assets/js/contact-form/contact-form.js"></script>
+    <script src="./PromoPage/assets/js/contact-form/contact-form.js"></script>
     <!-- CUSTOM JS -->
-    <script src="./assets/js/script.js"></script>
+    <script src="./PromoPage/assets/js/script.js"></script>
   <script src="runtime.cdf96cc40b22de9e.js" type="module"></script><script src="polyfills.40c33d0f22fbaddf.js" type="module"></script><script src="main.cb9c18846e0f7678.js" type="module"></script>
 
 </body></html>
